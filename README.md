@@ -1,2 +1,2 @@
 # KolyaVol.github.io
-This repository created as test for DataMola
+This repository created for DataMola
